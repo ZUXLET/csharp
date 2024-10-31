@@ -1,0 +1,15 @@
+D:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\FirstStep.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\FirstStep.AssemblyInfoInputs.cache
+D:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\FirstStep.AssemblyInfo.cs
+D:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\FirstStep.csproj.CoreCompileInputs.cache
+D:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\FirstStep.sourcelink.json
+d:\git\ulearn\lesson_FirstStep\FirstStep\bin\Debug\net8.0\FirstStep.exe
+D:\git\ulearn\lesson_FirstStep\FirstStep\bin\Debug\net8.0\FirstStep.deps.json
+D:\git\ulearn\lesson_FirstStep\FirstStep\bin\Debug\net8.0\FirstStep.runtimeconfig.json
+d:\git\ulearn\lesson_FirstStep\FirstStep\bin\Debug\net8.0\FirstStep.dll
+d:\git\ulearn\lesson_FirstStep\FirstStep\bin\Debug\net8.0\FirstStep.pdb
+d:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\FirstStep.dll
+d:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\refint\FirstStep.dll
+d:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\FirstStep.pdb
+D:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\FirstStep.genruntimeconfig.cache
+D:\git\ulearn\lesson_FirstStep\FirstStep\obj\Debug\net8.0\ref\FirstStep.dll
