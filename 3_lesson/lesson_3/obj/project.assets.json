@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\ulearn\\1_lesson\\FirstStep.csproj",
-      "projectName": "FirstStep",
-      "projectPath": "D:\\git\\ulearn\\1_lesson\\FirstStep.csproj",
+      "projectUniqueName": "D:\\git\\ulearn\\3_lesson\\lesson_3\\lesson_3.csproj",
+      "projectName": "lesson_3",
+      "projectPath": "D:\\git\\ulearn\\3_lesson\\lesson_3\\lesson_3.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\ulearn\\1_lesson\\obj\\",
+      "outputPath": "D:\\git\\ulearn\\3_lesson\\lesson_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config"
