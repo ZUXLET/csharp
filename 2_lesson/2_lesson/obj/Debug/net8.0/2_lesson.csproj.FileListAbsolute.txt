@@ -1,0 +1,15 @@
+d:\git\ulearn\2_lesson\2_lesson\bin\Debug\net8.0\2_lesson.exe
+D:\git\ulearn\2_lesson\2_lesson\bin\Debug\net8.0\2_lesson.deps.json
+D:\git\ulearn\2_lesson\2_lesson\bin\Debug\net8.0\2_lesson.runtimeconfig.json
+d:\git\ulearn\2_lesson\2_lesson\bin\Debug\net8.0\2_lesson.dll
+d:\git\ulearn\2_lesson\2_lesson\bin\Debug\net8.0\2_lesson.pdb
+d:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\2_lesson.GeneratedMSBuildEditorConfig.editorconfig
+d:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\2_lesson.AssemblyInfoInputs.cache
+d:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\2_lesson.AssemblyInfo.cs
+d:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\2_lesson.csproj.CoreCompileInputs.cache
+d:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\2_lesson.sourcelink.json
+d:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\2_lesson.dll
+d:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\refint\2_lesson.dll
+d:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\2_lesson.pdb
+D:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\2_lesson.genruntimeconfig.cache
+D:\git\ulearn\2_lesson\2_lesson\obj\Debug\net8.0\ref\2_lesson.dll
