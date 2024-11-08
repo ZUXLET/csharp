@@ -1,0 +1,5 @@
+D:\git\ulearn\Pervoe_znakomstvo\8_lesson\lesson_8\obj\Debug\net8.0\lesson_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ulearn\Pervoe_znakomstvo\8_lesson\lesson_8\obj\Debug\net8.0\lesson_8.AssemblyInfoInputs.cache
+D:\git\ulearn\Pervoe_znakomstvo\8_lesson\lesson_8\obj\Debug\net8.0\lesson_8.AssemblyInfo.cs
+D:\git\ulearn\Pervoe_znakomstvo\8_lesson\lesson_8\obj\Debug\net8.0\lesson_8.csproj.CoreCompileInputs.cache
+D:\git\ulearn\Pervoe_znakomstvo\8_lesson\lesson_8\obj\Debug\net8.0\lesson_8.sourcelink.json
