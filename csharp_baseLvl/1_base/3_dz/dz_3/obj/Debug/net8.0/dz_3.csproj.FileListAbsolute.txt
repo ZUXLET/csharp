@@ -1,0 +1,15 @@
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\bin\Debug\net8.0\dz_3.exe
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\bin\Debug\net8.0\dz_3.deps.json
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\bin\Debug\net8.0\dz_3.runtimeconfig.json
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\bin\Debug\net8.0\dz_3.dll
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\bin\Debug\net8.0\dz_3.pdb
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\dz_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\dz_3.AssemblyInfoInputs.cache
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\dz_3.AssemblyInfo.cs
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\dz_3.csproj.CoreCompileInputs.cache
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\dz_3.sourcelink.json
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\dz_3.dll
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\refint\dz_3.dll
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\dz_3.pdb
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\dz_3.genruntimeconfig.cache
+D:\git\csharp\csharp_baseLvl\1_base\3_dz\dz_3\obj\Debug\net8.0\ref\dz_3.dll
