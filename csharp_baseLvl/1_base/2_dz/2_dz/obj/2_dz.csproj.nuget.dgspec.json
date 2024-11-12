@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\csharp\\csharp_baseLvl\\2_uslovnie_operatori_i_cicly\\2_dz\\2_dz.csproj": {}
+    "D:\\git\\csharp\\csharp_baseLvl\\1_base\\2_dz\\2_dz\\2_dz.csproj": {}
   },
   "projects": {
-    "D:\\git\\csharp\\csharp_baseLvl\\2_uslovnie_operatori_i_cicly\\2_dz\\2_dz.csproj": {
+    "D:\\git\\csharp\\csharp_baseLvl\\1_base\\2_dz\\2_dz\\2_dz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\csharp\\csharp_baseLvl\\2_uslovnie_operatori_i_cicly\\2_dz\\2_dz.csproj",
+        "projectUniqueName": "D:\\git\\csharp\\csharp_baseLvl\\1_base\\2_dz\\2_dz\\2_dz.csproj",
         "projectName": "2_dz",
-        "projectPath": "D:\\git\\csharp\\csharp_baseLvl\\2_uslovnie_operatori_i_cicly\\2_dz\\2_dz.csproj",
+        "projectPath": "D:\\git\\csharp\\csharp_baseLvl\\1_base\\2_dz\\2_dz\\2_dz.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\csharp\\csharp_baseLvl\\2_uslovnie_operatori_i_cicly\\2_dz\\obj\\",
+        "outputPath": "D:\\git\\csharp\\csharp_baseLvl\\1_base\\2_dz\\2_dz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config"
