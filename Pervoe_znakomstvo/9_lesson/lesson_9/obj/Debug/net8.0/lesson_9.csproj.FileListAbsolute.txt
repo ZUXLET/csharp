@@ -1,0 +1,15 @@
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\lesson_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\lesson_9.AssemblyInfoInputs.cache
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\lesson_9.AssemblyInfo.cs
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\lesson_9.csproj.CoreCompileInputs.cache
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\lesson_9.sourcelink.json
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\bin\Debug\net8.0\lesson_9.exe
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\bin\Debug\net8.0\lesson_9.deps.json
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\bin\Debug\net8.0\lesson_9.runtimeconfig.json
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\bin\Debug\net8.0\lesson_9.dll
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\bin\Debug\net8.0\lesson_9.pdb
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\lesson_9.dll
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\refint\lesson_9.dll
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\lesson_9.pdb
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\lesson_9.genruntimeconfig.cache
+D:\git\ulearn\Pervoe_znakomstvo\9_lesson\lesson_9\obj\Debug\net8.0\ref\lesson_9.dll
