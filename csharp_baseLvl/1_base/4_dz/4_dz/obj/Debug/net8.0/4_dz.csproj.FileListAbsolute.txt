@@ -1,0 +1,15 @@
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\4_dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\4_dz.AssemblyInfoInputs.cache
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\4_dz.AssemblyInfo.cs
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\4_dz.csproj.CoreCompileInputs.cache
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\4_dz.sourcelink.json
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\bin\Debug\net8.0\4_dz.exe
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\bin\Debug\net8.0\4_dz.deps.json
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\bin\Debug\net8.0\4_dz.runtimeconfig.json
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\bin\Debug\net8.0\4_dz.dll
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\bin\Debug\net8.0\4_dz.pdb
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\4_dz.dll
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\refint\4_dz.dll
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\4_dz.pdb
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\4_dz.genruntimeconfig.cache
+D:\git\csharp\csharp_baseLvl\1_base\4_dz\4_dz\obj\Debug\net8.0\ref\4_dz.dll
