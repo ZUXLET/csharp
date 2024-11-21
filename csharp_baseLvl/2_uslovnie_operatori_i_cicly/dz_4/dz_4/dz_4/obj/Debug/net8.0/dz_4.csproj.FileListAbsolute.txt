@@ -1,0 +1,15 @@
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\dz_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\dz_4.AssemblyInfoInputs.cache
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\dz_4.AssemblyInfo.cs
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\dz_4.csproj.CoreCompileInputs.cache
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\dz_4.sourcelink.json
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\bin\Debug\net8.0\dz_4.exe
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\bin\Debug\net8.0\dz_4.deps.json
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\bin\Debug\net8.0\dz_4.runtimeconfig.json
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\bin\Debug\net8.0\dz_4.dll
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\bin\Debug\net8.0\dz_4.pdb
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\dz_4.dll
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\refint\dz_4.dll
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\dz_4.pdb
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\dz_4.genruntimeconfig.cache
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_4\dz_4\dz_4\obj\Debug\net8.0\ref\dz_4.dll
