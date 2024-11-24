@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\csharp\\csharp_baseLvl\\2_uslovnie_operatori_i_cicly\\dz_8\\dz_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBD26B3-D4FA-4241-9FFE-D2D787214544}|dz_8\\dz_8.csproj|d:\\git\\csharp\\csharp_baselvl\\2_uslovnie_operatori_i_cicly\\dz_8\\dz_8\\dz_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBD26B3-D4FA-4241-9FFE-D2D787214544}|dz_8\\dz_8.csproj|solutionrelative:dz_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\csharp\\csharp_baseLvl\\2_uslovnie_operatori_i_cicly\\dz_8\\dz_8\\dz_8\\Program.cs",
+              "RelativeDocumentMoniker": "dz_8\\Program.cs",
+              "ToolTip": "D:\\git\\csharp\\csharp_baseLvl\\2_uslovnie_operatori_i_cicly\\dz_8\\dz_8\\dz_8\\Program.cs*",
+              "RelativeToolTip": "dz_8\\Program.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:20:18.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

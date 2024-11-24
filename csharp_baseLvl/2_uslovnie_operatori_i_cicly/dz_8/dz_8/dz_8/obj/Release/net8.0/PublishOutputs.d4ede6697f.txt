@@ -1,0 +1,5 @@
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_8\dz_8\dz_8\bin\Release\net8.0\publish\dz_8.exe
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_8\dz_8\dz_8\bin\Release\net8.0\publish\dz_8.dll
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_8\dz_8\dz_8\bin\Release\net8.0\publish\dz_8.deps.json
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_8\dz_8\dz_8\bin\Release\net8.0\publish\dz_8.runtimeconfig.json
+D:\git\csharp\csharp_baseLvl\2_uslovnie_operatori_i_cicly\dz_8\dz_8\dz_8\bin\Release\net8.0\publish\dz_8.pdb
