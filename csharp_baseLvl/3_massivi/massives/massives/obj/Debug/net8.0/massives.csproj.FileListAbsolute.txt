@@ -1,0 +1,14 @@
+D:\test\massives\massives\bin\Debug\net8.0\massives.exe
+D:\test\massives\massives\bin\Debug\net8.0\massives.deps.json
+D:\test\massives\massives\bin\Debug\net8.0\massives.runtimeconfig.json
+D:\test\massives\massives\bin\Debug\net8.0\massives.dll
+D:\test\massives\massives\bin\Debug\net8.0\massives.pdb
+D:\test\massives\massives\obj\Debug\net8.0\massives.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\massives\massives\obj\Debug\net8.0\massives.AssemblyInfoInputs.cache
+D:\test\massives\massives\obj\Debug\net8.0\massives.AssemblyInfo.cs
+D:\test\massives\massives\obj\Debug\net8.0\massives.csproj.CoreCompileInputs.cache
+D:\test\massives\massives\obj\Debug\net8.0\massives.dll
+D:\test\massives\massives\obj\Debug\net8.0\refint\massives.dll
+D:\test\massives\massives\obj\Debug\net8.0\massives.pdb
+D:\test\massives\massives\obj\Debug\net8.0\massives.genruntimeconfig.cache
+D:\test\massives\massives\obj\Debug\net8.0\ref\massives.dll

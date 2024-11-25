@@ -1,0 +1,5 @@
+D:\test\massives\massives\bin\Release\net8.0\publish\massives.exe
+D:\test\massives\massives\bin\Release\net8.0\publish\massives.dll
+D:\test\massives\massives\bin\Release\net8.0\publish\massives.deps.json
+D:\test\massives\massives\bin\Release\net8.0\publish\massives.runtimeconfig.json
+D:\test\massives\massives\bin\Release\net8.0\publish\massives.pdb
